@@ -2,12 +2,12 @@
 
 Adicione aqui os arquivos de logo do THOTH usados na apresentação pública.
 
-Sugestões:
+Arquivo atual:
+
+- `logo.jpeg`
+
+Sugestões para futuras versões:
 
 - `thoth-logo.png`
 - `thoth-logo.svg`
 - `thoth-icon.png`
-
-Placeholder atual:
-
-- `thoth-logo-placeholder.svg`

@@ -9,6 +9,6 @@ Sugestões:
 - Imagens de fluxo.
 - Arquivos públicos de apresentação.
 
-Placeholder atual:
+Demo atual:
 
-- `demo-placeholder.svg`
+Nenhum. Quando houver uma demonstração real, adicione o arquivo nesta pasta e referencie no README principal.

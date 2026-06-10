@@ -2,21 +2,17 @@
 
 Adicione aqui capturas de tela do sistema para apresentação do produto.
 
-Sugestões de imagens:
+Arquivos atuais:
 
-- Tela de login.
-- Tela inicial.
-- Lista de reagentes.
+- `login.png`
+- `tela-inicial.png`
+- `inventario.png`
+- `reagentes.png`
+- `agenda.png`
+- `auditoria.png`
+
+Sugestões para futuras versões:
+
 - Cadastro de reagente.
 - Compatibilidade de classificações.
-- Agenda.
-- Auditoria.
 - Relatório PDF.
-
-Placeholders atuais:
-
-- `tela-inicial-placeholder.svg`
-- `inventario-placeholder.svg`
-- `agenda-placeholder.svg`
-- `auditoria-placeholder.svg`
-- `relatorios-placeholder.svg`

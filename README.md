@@ -1,6 +1,6 @@
 # THOTH - Sistema de Gestão Laboratorial
 
-![Placeholder da marca THOTH](assets/logo/thoth-logo-placeholder.svg)
+![Logo THOTH](assets/logo/logo.jpeg)
 
 O THOTH é um sistema web para gestão laboratorial, criado para auxiliar no controle de reagentes, vidrarias, utensílios, compatibilidade de materiais, geração de relatórios e organização de agendamentos.
 
@@ -28,15 +28,15 @@ O THOTH centraliza informações que normalmente ficam espalhadas em planilhas, 
 
 ## Prévia Visual
 
-Os arquivos abaixo são placeholders para os prints finais do sistema. Substitua cada SVG por uma captura real mantendo o mesmo nome, se quiser que o README atualize automaticamente.
+Algumas telas do sistema:
 
-| Tela inicial | Inventário | Agenda |
+| Login | Tela inicial | Inventário |
 |---|---|---|
-| ![Placeholder da tela inicial](assets/screenshots/tela-inicial-placeholder.svg) | ![Placeholder do inventário](assets/screenshots/inventario-placeholder.svg) | ![Placeholder da agenda](assets/screenshots/agenda-placeholder.svg) |
+| ![Tela de login do THOTH](assets/screenshots/login.png) | ![Tela inicial do THOTH](assets/screenshots/tela-inicial.png) | ![Tela de inventário do THOTH](assets/screenshots/inventario.png) |
 
-| Auditoria | Relatórios | Demonstração |
+| Reagentes | Agenda | Auditoria |
 |---|---|---|
-| ![Placeholder da auditoria](assets/screenshots/auditoria-placeholder.svg) | ![Placeholder de relatórios](assets/screenshots/relatorios-placeholder.svg) | ![Placeholder de demo](assets/demo/demo-placeholder.svg) |
+| ![Tela de reagentes do THOTH](assets/screenshots/reagentes.png) | ![Tela de agenda do THOTH](assets/screenshots/agenda.png) | ![Tela de auditoria do THOTH](assets/screenshots/auditoria.png) |
 
 ## Tecnologias Utilizadas
 
