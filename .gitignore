@@ -1,0 +1,19 @@
+# Arquivos temporarios
+.DS_Store
+Thumbs.db
+
+# Evitar inclusao acidental de codigo-fonte ou configuracoes sensiveis
+*.env
+.env
+target/
+build/
+dist/
+node_modules/
+*.jar
+*.war
+*.sql
+*.db
+*.sqlite
+*.sqlite3
+docker-compose*.yml
+Dockerfile
