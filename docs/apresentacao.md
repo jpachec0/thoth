@@ -1,30 +1,30 @@
-# Apresentacao do THOTH
+# Apresentação do THOTH
 
-O THOTH e um sistema de gestao laboratorial voltado para ambientes educacionais e institucionais que precisam controlar materiais, organizar agendamentos e manter rastreabilidade das operacoes realizadas.
+O THOTH é um sistema de gestão laboratorial voltado para ambientes educacionais e institucionais que precisam controlar materiais, organizar agendamentos e manter rastreabilidade das operações realizadas.
 
 ## Problema
 
-Laboratorios educacionais frequentemente dependem de registros manuais, planilhas separadas e processos informais para controlar reagentes, vidrarias, utensilios e reservas de uso.
+Laboratórios educacionais frequentemente dependem de registros manuais, planilhas separadas e processos informais para controlar reagentes, vidrarias, utensílios e reservas de uso.
 
 Esse modelo pode gerar:
 
 - Dificuldade para localizar materiais.
-- Falta de padronizacao no inventario.
-- Menor rastreabilidade de alteracoes.
+- Falta de padronização no inventário.
+- Menor rastreabilidade de alterações.
 - Problemas no controle de compatibilidade entre reagentes.
-- Dificuldade para organizar horarios de uso do laboratorio.
+- Dificuldade para organizar horários de uso do laboratório.
 
 ## Proposta
 
-O THOTH centraliza essas operacoes em uma aplicacao web, permitindo que usuarios autorizados consultem, cadastrem, atualizem e acompanhem informacoes essenciais do laboratorio.
+O THOTH centraliza essas operações em uma aplicação web, permitindo que usuários autorizados consultem, cadastrem, atualizem e acompanhem informações essenciais do laboratório.
 
-## Publico-Alvo
+## Público-Alvo
 
-- Laboratorios escolares.
-- Laboratorios tecnicos.
-- Laboratorios de ensino superior.
-- Ambientes institucionais que precisam de controle basico de inventario e agenda.
+- Laboratórios escolares.
+- Laboratórios técnicos.
+- Laboratórios de ensino superior.
+- Ambientes institucionais que precisam de controle básico de inventário e agenda.
 
 ## Objetivo
 
-Facilitar a rotina laboratorial por meio de uma plataforma simples, organizada e segura, reduzindo dependencia de controles manuais e melhorando a confiabilidade das informacoes.
+Facilitar a rotina laboratorial por meio de uma plataforma simples, organizada e segura, reduzindo dependência de controles manuais e melhorando a confiabilidade das informações.

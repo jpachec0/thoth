@@ -1,25 +1,25 @@
 # Roadmap
 
-Este roadmap apresenta possibilidades de evolucao do THOTH em nivel de produto.
+Este roadmap apresenta possibilidades de evolução do THOTH em nível de produto.
 
 ## Melhorias Planejadas
 
-- Melhorar paineis de indicadores do laboratorio.
-- Expandir filtros de busca e relatorios.
-- Aprimorar experiencia mobile.
-- Adicionar novas opcoes de exportacao.
-- Melhorar visualizacao de historico e auditoria.
-- Criar fluxo de backup mais guiado para usuarios finais.
+- Melhorar painéis de indicadores do laboratório.
+- Expandir filtros de busca e relatórios.
+- Aprimorar experiência mobile.
+- Adicionar novas opções de exportação.
+- Melhorar visualização de histórico e auditoria.
+- Criar fluxo de backup mais guiado para usuários finais.
 
 ## Possibilidades Futuras
 
-- Dashboard com estatisticas de inventario.
+- Dashboard com estatísticas de inventário.
 - Alertas de validade de reagentes.
-- Relatorios comparativos por periodo.
-- Perfis de permissao mais granulares.
+- Relatórios comparativos por período.
+- Perfis de permissão mais granulares.
 - Melhorias de acessibilidade.
-- Modulo de anexos e documentos de seguranca.
+- Módulo de anexos e documentos de segurança.
 
-## Observacao
+## Observação
 
-O roadmap pode mudar conforme testes, necessidades institucionais e avaliacao dos usuarios.
+O roadmap pode mudar conforme testes, necessidades institucionais e avaliação dos usuários.

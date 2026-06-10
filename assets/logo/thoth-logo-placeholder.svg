@@ -1,0 +1,12 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder da logo THOTH</title>
+  <desc id="desc">Espaço reservado para a marca do sistema THOTH.</desc>
+  <rect width="900" height="260" rx="32" fill="#F7F2F9"/>
+  <rect x="24" y="24" width="852" height="212" rx="24" fill="#FFFFFF" stroke="#6B5976" stroke-width="3" stroke-dasharray="14 10"/>
+  <circle cx="136" cy="130" r="54" fill="#433369"/>
+  <path d="M110 134C123 104 149 104 162 134" stroke="#F7F2F9" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="119" cy="119" r="8" fill="#F7F2F9"/>
+  <circle cx="153" cy="119" r="8" fill="#F7F2F9"/>
+  <text x="220" y="119" fill="#433369" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700">THOTH</text>
+  <text x="222" y="162" fill="#8B7D92" font-family="Arial, sans-serif" font-size="24">placeholder da marca do produto</text>
+</svg>

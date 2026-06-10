@@ -1,0 +1,10 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de demonstração</title>
+  <desc id="desc">Espaço reservado para GIF ou vídeo demonstrativo do THOTH.</desc>
+  <rect width="1280" height="720" fill="#15111A"/>
+  <rect x="90" y="70" width="1100" height="580" rx="32" fill="#211A29" stroke="#CFC0D8" stroke-width="3" stroke-dasharray="16 12"/>
+  <circle cx="640" cy="360" r="88" fill="#F7F2F9"/>
+  <path d="M620 315L620 405L700 360L620 315Z" fill="#433369"/>
+  <text x="430" y="512" fill="#F7F2F9" font-family="Arial, sans-serif" font-size="34" font-weight="700">demo do sistema aqui</text>
+  <text x="420" y="558" fill="#CFC0D8" font-family="Arial, sans-serif" font-size="24">substitua por GIF, vídeo ou imagem real</text>
+</svg>

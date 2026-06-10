@@ -2,58 +2,58 @@
 
 ## Reagentes
 
-O modulo de reagentes permite registrar e consultar substancias disponiveis no laboratorio.
+O módulo de reagentes permite registrar e consultar substâncias disponíveis no laboratório.
 
 Recursos previstos:
 
 - Cadastro de reagentes.
-- Edicao de dados cadastrais.
+- Edição de dados cadastrais.
 - Controle de disponibilidade.
-- Registro de estado fisico.
+- Registro de estado físico.
 - Registro de validade quando informada.
-- Associacao com classificacoes previamente cadastradas.
-- Emissao de relatorio em PDF.
+- Associação com classificações previamente cadastradas.
+- Emissão de relatório em PDF.
 
-## Classificacoes e Compatibilidade
+## Classificações e Compatibilidade
 
-O sistema permite declarar classificacoes quimicas e relacionar incompatibilidades entre elas.
+O sistema permite declarar classificações químicas e relacionar incompatibilidades entre elas.
 
 Com isso, o THOTH consegue organizar reagentes por grupos de compatibilidade, auxiliando na consulta e no planejamento de armazenamento.
 
-As classificacoes devem ser cadastradas previamente para que o sistema consiga aplicar a organizacao de compatibilidade.
+As classificações devem ser cadastradas previamente para que o sistema consiga aplicar a organização de compatibilidade.
 
 ## Vidrarias
 
-O modulo de vidrarias permite controlar itens como bequeres, provetas, pipetas, baloes volumetricos e outros materiais semelhantes.
+O módulo de vidrarias permite controlar itens como béqueres, provetas, pipetas, balões volumétricos e outros materiais semelhantes.
 
 Recursos previstos:
 
 - Cadastro de vidrarias.
 - Controle de quantidade em estoque.
 - Registro de volume e material.
-- Emissao de relatorio em PDF.
+- Emissão de relatório em PDF.
 
-## Utensilios
+## Utensílios
 
-O modulo de utensilios cobre materiais auxiliares do laboratorio.
+O módulo de utensílios cobre materiais auxiliares do laboratório.
 
 Recursos previstos:
 
-- Cadastro de utensilios.
+- Cadastro de utensílios.
 - Controle de quantidade.
-- Registro de observacoes.
-- Emissao de relatorio em PDF.
+- Registro de observações.
+- Emissão de relatório em PDF.
 
 ## Agenda
 
-O modulo de agenda organiza o uso do laboratorio em dias uteis e horarios configurados.
+O módulo de agenda organiza o uso do laboratório em dias úteis e horários configurados.
 
 Recursos previstos:
 
 - Cadastro de aulas.
-- Visualizacao em formato de grade semanal.
+- Visualização em formato de grade semanal.
 - Controle de cancelamento por criador ou administrador.
-- Configuracao de horarios por usuarios autorizados.
+- Configuração de horários por usuários autorizados.
 
 ## Auditoria
 
@@ -61,18 +61,18 @@ O sistema registra eventos relevantes para consulta posterior.
 
 Recursos previstos:
 
-- Historico de acoes.
+- Histórico de ações.
 - Consulta por intervalo de datas.
-- Ordenacao por registros mais recentes.
-- Apoio a rastreabilidade operacional.
+- Ordenação por registros mais recentes.
+- Apoio à rastreabilidade operacional.
 
-## Usuarios e Permissoes
+## Usuários e Permissões
 
-O THOTH possui controle de acesso para proteger operacoes sensiveis.
+O THOTH possui controle de acesso para proteger operações sensíveis.
 
 Recursos previstos:
 
 - Login autenticado.
-- Controle de permissoes.
-- Operacoes administrativas restritas.
-- Protecao de rotas internas.
+- Controle de permissões.
+- Operações administrativas restritas.
+- Proteção de rotas internas.

@@ -1,19 +1,19 @@
 # Changelog
 
-Este changelog registra mudancas em nivel de produto. Detalhes internos de implementacao permanecem privados.
+Este changelog registra mudanças em nível de produto. Detalhes internos de implementação permanecem privados.
 
-## Versao de Apresentacao
+## Versão de Apresentação
 
-- Criacao do repositorio publico de apresentacao.
-- Separacao entre apresentacao do produto e codigo-fonte privado.
-- Inclusao de documentacao publica sobre funcionalidades, arquitetura, seguranca e roadmap.
-- Preparacao de estrutura para capturas de tela, logos e materiais demonstrativos.
+- Criação do repositório público de apresentação.
+- Separação entre apresentação do produto e código-fonte privado.
+- Inclusão de documentação pública sobre funcionalidades, arquitetura, segurança e roadmap.
+- Preparação de estrutura para capturas de tela, logos e materiais demonstrativos.
 
-## Historico do Produto
+## Histórico do Produto
 
-- Modulos de inventario para reagentes, vidrarias e utensilios.
-- Relatorios em PDF.
-- Organizacao de reagentes por compatibilidade.
+- Módulos de inventário para reagentes, vidrarias e utensílios.
+- Relatórios em PDF.
+- Organização de reagentes por compatibilidade.
 - Agenda local para uso laboratorial.
 - Auditoria de eventos.
-- Controle de usuarios e permissoes.
+- Controle de usuários e permissões.

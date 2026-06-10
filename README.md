@@ -1,28 +1,42 @@
-# THOTH - Sistema de Gestao Laboratorial
+# THOTH - Sistema de Gestão Laboratorial
 
-O THOTH e um sistema web para gestao laboratorial, criado para auxiliar no controle de reagentes, vidrarias, utensilios, compatibilidade de materiais, geracao de relatorios e organizacao de agendamentos.
+![Placeholder da marca THOTH](assets/logo/thoth-logo-placeholder.svg)
 
-> Este repositorio apresenta o projeto em nivel de produto.
-> O codigo-fonte e privado.
+O THOTH é um sistema web para gestão laboratorial, criado para auxiliar no controle de reagentes, vidrarias, utensílios, compatibilidade de materiais, geração de relatórios e organização de agendamentos.
 
-## Visao Geral
+> Este repositório apresenta o projeto em nível de produto.
+> O código-fonte é privado.
 
-O sistema foi desenvolvido com foco em ambientes laboratoriais educacionais, permitindo maior organizacao, rastreabilidade e controle sobre os recursos disponiveis.
+## Visão Geral
 
-O THOTH centraliza informacoes que normalmente ficam espalhadas em planilhas, documentos ou registros manuais, ajudando equipes de laboratorio a manter inventario, agenda e consultas de seguranca em um unico ambiente.
+O sistema foi desenvolvido com foco em ambientes laboratoriais educacionais, permitindo maior organização, rastreabilidade e controle sobre os recursos disponíveis.
+
+O THOTH centraliza informações que normalmente ficam espalhadas em planilhas, documentos ou registros manuais, ajudando equipes de laboratório a manter inventário, agenda e consultas de segurança em um único ambiente.
 
 ## Principais Funcionalidades
 
 - Controle de reagentes.
 - Controle de vidrarias.
-- Controle de utensilios.
-- Registro de eventos e movimentacoes.
-- Geracao de relatorios em PDF.
+- Controle de utensílios.
+- Registro de eventos e movimentações.
+- Geração de relatórios em PDF.
 - Agenda de uso laboratorial.
-- Verificacao de compatibilidade entre materiais.
-- Organizacao de inventario por categorias.
-- Controle de usuarios e permissoes.
-- Consulta de historico por auditoria.
+- Verificação de compatibilidade entre materiais.
+- Organização de inventário por categorias.
+- Controle de usuários e permissões.
+- Consulta de histórico por auditoria.
+
+## Prévia Visual
+
+Os arquivos abaixo são placeholders para os prints finais do sistema. Substitua cada SVG por uma captura real mantendo o mesmo nome, se quiser que o README atualize automaticamente.
+
+| Tela inicial | Inventário | Agenda |
+|---|---|---|
+| ![Placeholder da tela inicial](assets/screenshots/tela-inicial-placeholder.svg) | ![Placeholder do inventário](assets/screenshots/inventario-placeholder.svg) | ![Placeholder da agenda](assets/screenshots/agenda-placeholder.svg) |
+
+| Auditoria | Relatórios | Demonstração |
+|---|---|---|
+| ![Placeholder da auditoria](assets/screenshots/auditoria-placeholder.svg) | ![Placeholder de relatórios](assets/screenshots/relatorios-placeholder.svg) | ![Placeholder de demo](assets/demo/demo-placeholder.svg) |
 
 ## Tecnologias Utilizadas
 
@@ -37,26 +51,26 @@ O THOTH centraliza informacoes que normalmente ficam espalhadas em planilhas, do
 
 ## Status do Projeto
 
-Projeto desenvolvido como sistema de gestao laboratorial, com aplicacao academica e potencial de uso institucional.
+Projeto desenvolvido como sistema de gestão laboratorial, com aplicação acadêmica e potencial de uso institucional.
 
-## Codigo-Fonte
+## Código-Fonte
 
-O codigo-fonte nao esta disponivel publicamente.
+O código-fonte não está disponível publicamente.
 
-Para solicitacoes institucionais, demonstracoes ou validacao de autoria, entre em contato com o autor.
+Para solicitações institucionais, demonstrações ou validação de autoria, entre em contato com o autor.
 
-## Documentacao
+## Documentação
 
-- [Apresentacao](docs/apresentacao.md)
+- [Apresentação](docs/apresentacao.md)
 - [Funcionalidades](docs/funcionalidades.md)
 - [Arquitetura](docs/arquitetura.md)
-- [Seguranca](docs/seguranca.md)
+- [Segurança](docs/seguranca.md)
 - [Roadmap](docs/roadmap.md)
 - [Changelog](docs/changelog.md)
 
 ## Capturas de Tela
 
-As imagens do sistema podem ser adicionadas em:
+As imagens do sistema podem ser adicionadas ou substituídas em:
 
 - `assets/screenshots/`
 - `assets/demo/`
@@ -64,8 +78,8 @@ As imagens do sistema podem ser adicionadas em:
 
 ## Autores
 
-- Joao Pedro Medrado Pacheco
-- Joao Lucas Nasio Marques
+- João Pedro Medrado Pacheco
+- João Lucas Nasio Marques
 - Augusto Reis de Almeida
 - Keven Rafael da Costa Vidal
 
@@ -73,5 +87,5 @@ As imagens do sistema podem ser adicionadas em:
 
 © jpachec0. Todos os direitos reservados.
 
-Este repositorio e destinado apenas a apresentacao do projeto THOTH.
-O codigo-fonte, banco de dados, scripts internos e regras de implementacao sao privados.
+Este repositório é destinado apenas à apresentação do projeto THOTH.
+O código-fonte, banco de dados, scripts internos e regras de implementação são privados.

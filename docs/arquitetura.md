@@ -1,20 +1,20 @@
 # Arquitetura
 
-Este documento descreve a arquitetura em nivel de produto. Detalhes de implementacao, estrutura interna de classes, banco de dados e codigo-fonte sao privados.
+Este documento descreve a arquitetura em nível de produto. Detalhes de implementação, estrutura interna de classes, banco de dados e código-fonte são privados.
 
-## Visao Geral
+## Visão Geral
 
-O THOTH e uma aplicacao web server-side, com interface renderizada no servidor e persistencia em banco de dados relacional.
+O THOTH é uma aplicação web server-side, com interface renderizada no servidor e persistência em banco de dados relacional.
 
 ## Componentes Principais
 
-- Interface web para usuarios finais.
-- Camada de controle de rotas e requisicoes.
-- Camada de regras de negocio.
-- Camada de persistencia.
+- Interface web para usuários finais.
+- Camada de controle de rotas e requisições.
+- Camada de regras de negócio.
+- Camada de persistência.
 - Banco de dados relacional.
-- Geracao de relatorios em PDF.
-- Controle de autenticacao e autorizacao.
+- Geração de relatórios em PDF.
+- Controle de autenticação e autorização.
 
 ## Tecnologias
 
@@ -27,19 +27,19 @@ O THOTH e uma aplicacao web server-side, com interface renderizada no servidor e
 - iTextPDF.
 - Docker.
 
-## Implantacao
+## Implantação
 
-O sistema pode ser empacotado em containers Docker, permitindo execucao local sem instalacao direta de Java ou MySQL no computador final.
+O sistema pode ser empacotado em containers Docker, permitindo execução local sem instalação direta de Java ou MySQL no computador final.
 
-Em uma instalacao local, a aplicacao e o banco rodam em containers separados, preservando os dados em volume Docker.
+Em uma instalação local, a aplicação e o banco rodam em containers separados, preservando os dados em volume Docker.
 
-## Privacidade da Implementacao
+## Privacidade da Implementação
 
-Este repositorio nao contem:
+Este repositório não contém:
 
-- Codigo-fonte.
+- Código-fonte.
 - Modelagem detalhada do banco.
 - Scripts internos de deploy.
 - Arquivos de ambiente.
 - Credenciais.
-- Regras privadas de implementacao.
+- Regras privadas de implementação.

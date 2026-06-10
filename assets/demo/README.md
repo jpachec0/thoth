@@ -2,9 +2,13 @@
 
 Adicione aqui materiais demonstrativos do sistema.
 
-Sugestoes:
+Sugestões:
 
 - GIFs curtos de uso.
-- Videos demonstrativos.
+- Vídeos demonstrativos.
 - Imagens de fluxo.
-- Arquivos publicos de apresentacao.
+- Arquivos públicos de apresentação.
+
+Placeholder atual:
+
+- `demo-placeholder.svg`

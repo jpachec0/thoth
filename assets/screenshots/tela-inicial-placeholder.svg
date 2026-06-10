@@ -1,0 +1,15 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder da tela inicial</title>
+  <desc id="desc">Espaço reservado para print da tela inicial do THOTH.</desc>
+  <rect width="1280" height="720" fill="#F7F2F9"/>
+  <rect x="40" y="40" width="1200" height="92" rx="20" fill="#FFFFFF" stroke="#6B5976" stroke-width="3" stroke-dasharray="16 12"/>
+  <text x="80" y="98" fill="#433369" font-family="Arial, sans-serif" font-size="34" font-weight="700">Tela inicial</text>
+  <g fill="#FFFFFF" stroke="#6B5976" stroke-width="3" stroke-dasharray="16 12">
+    <rect x="120" y="210" width="300" height="210" rx="24"/>
+    <rect x="490" y="210" width="300" height="210" rx="24"/>
+    <rect x="860" y="210" width="300" height="210" rx="24"/>
+  </g>
+  <text x="180" y="332" fill="#8B7D92" font-family="Arial, sans-serif" font-size="28">print aqui</text>
+  <text x="550" y="332" fill="#8B7D92" font-family="Arial, sans-serif" font-size="28">print aqui</text>
+  <text x="920" y="332" fill="#8B7D92" font-family="Arial, sans-serif" font-size="28">print aqui</text>
+</svg>
