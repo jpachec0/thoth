@@ -70,7 +70,7 @@ Para solicitações institucionais, demonstrações ou validação de autoria, e
 
 ## Capturas de Tela
 
-As imagens do sistema podem ser adicionadas ou substituídas em:
+As imagens do sistema estão disponíveis em:
 
 - `assets/screenshots/`
 - `assets/demo/`
