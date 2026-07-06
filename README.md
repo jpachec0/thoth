@@ -29,6 +29,7 @@ O THOTH centraliza informações que normalmente ficam espalhadas em planilhas, 
 ## Prévia Visual
 
 Algumas telas do sistema:
+Obs: Algumas telas podem estar desatualizadas, pois THOTH está passando por um rebrand
 
 | Login | Tela inicial | Inventário |
 |---|---|---|
